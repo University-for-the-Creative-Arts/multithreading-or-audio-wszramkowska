@@ -1,0 +1,78 @@
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.app
+*.lib
+*.a
+*.lo
+*.slo
+*.pdb
+*.idb
+*.class
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Unreal Engine build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+.vsconfig
+
+# Build artifacts
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.idea/
+*.iml
+
+# Unreal Plugin intermediate files
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Ignore project-specific files
+*.sln
+*.log
+*.tlog
+*.manifest
+*.ipr
+*.iws
+
+# Ignore system or editor cache
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp
